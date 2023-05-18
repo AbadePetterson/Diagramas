@@ -2,4 +2,4 @@
 diagramas usados para exemplificar os casos de uso  de bancos relacionais
 
 
-![image](https://github.com/AbadePetterson/Diagramas/assets/26881234/1739540d-28bf-4610-ad3d-ee64eb91632b)
+![image](https://github.com/AbadePetterson/Diagramas/assets/26881234/043f992e-c5f2-4c93-baa5-9435256bf655)
