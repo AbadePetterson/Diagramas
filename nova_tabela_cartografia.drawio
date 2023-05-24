@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T14:16:51.211Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="K748JbxDqX2UwdrRn3jB" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T14:31:15.309Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="lZ4TB__ou0CuC6YqoBHa" version="21.3.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="693" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,14 +24,11 @@
         <mxCell id="pYt54SIEii94xFcOSwYT-3" value="statusPerimetro TINYINT" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#FEFAE0;strokeColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
           <mxGeometry y="130" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="pYt54SIEii94xFcOSwYT-4" value="statusPerimetro TINYINT" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#FEFAE0;strokeColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
+        <mxCell id="pYt54SIEii94xFcOSwYT-5" value="idAnaliseCartografica TINYINT" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#FEFAE0;strokeColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
           <mxGeometry y="156" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="pYt54SIEii94xFcOSwYT-5" value="idAnaliseCartografica TINYINT" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#FEFAE0;strokeColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
-          <mxGeometry y="182" width="200" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="pYt54SIEii94xFcOSwYT-6" value="statusRegistro TINYINT" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#FEFAE0;strokeColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
-          <mxGeometry y="208" width="200" height="26" as="geometry" />
+          <mxGeometry y="182" width="200" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
